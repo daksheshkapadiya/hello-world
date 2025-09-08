@@ -1,6 +1,6 @@
 # Dakshesh Kapadiya
 
-👋 Hi there! I’m Dakshesh, a **Junior Web Developer** with hands-on experience in building and maintaining web applications. Passionate about solving problems, crafting user-friendly interfaces, and writing clean, maintainable code.
+👋 Hi there! I’m Dakshesh, a **Web Developer** with hands-on experience in building and maintaining web applications. Passionate about solving problems, crafting user-friendly interfaces, and writing clean, maintainable code.
 
 📍 **Location**: Ahmedabad, Gujarat, India  
 📧 **Email**: [daksheshkapadiya@gmail.com](mailto:daksheshkapadiya@gmail.com)  
